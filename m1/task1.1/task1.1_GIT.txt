@@ -1,0 +1,19 @@
+/home/user/git/DevOps_online_Odesa_2022_Q1Q2/m1/task1.1# git reflog
+c80a7b0 (HEAD -> master, origin/styles, origin/master, origin/develop, styles, develop) HEAD@{0}: merge develop: Fast-forward
+69fa49f (origin/main, origin/HEAD, main) HEAD@{1}: checkout: moving from develop to master
+c80a7b0 (HEAD -> master, origin/styles, origin/master, origin/develop, styles, develop) HEAD@{2}: merge styles: Fast-forward
+4c9942e HEAD@{3}: checkout: moving from styles to develop
+c80a7b0 (HEAD -> master, origin/styles, origin/master, origin/develop, styles, develop) HEAD@{4}: commit: css styles added to index.html
+5b55ff6 HEAD@{5}: commit: add styles folder with css stiles file
+4c9942e HEAD@{6}: checkout: moving from develop to styles
+4c9942e HEAD@{7}: checkout: moving from develop to develop
+4c9942e HEAD@{8}: commit: merged images with develop
+9abebf0 (origin/images, images) HEAD@{9}: merge images: Fast-forward
+f8a99d3 HEAD@{10}: checkout: moving from images to develop
+9abebf0 (origin/images, images) HEAD@{11}: commit: Images with text added to the index.html
+2e1ecf7 HEAD@{12}: commit: Step 14 - added images
+f8a99d3 HEAD@{13}: checkout: moving from develop to images
+f8a99d3 HEAD@{14}: commit: Step 13 - created empty index.html
+69fa49f (origin/main, origin/HEAD, main) HEAD@{15}: checkout: moving from main to develop
+69fa49f (origin/main, origin/HEAD, main) HEAD@{16}: clone: from https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2
+
