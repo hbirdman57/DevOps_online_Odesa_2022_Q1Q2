@@ -1,1 +1,0 @@
-# DevOps_online_Odesa_2022_Q1Q2
