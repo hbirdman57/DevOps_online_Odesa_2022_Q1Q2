@@ -11,7 +11,7 @@
               <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspindex.png</p>
               <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspmodel-2.png</p>
         <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/blob/main/m1/task1.1/index.html">index.html</a></p>
-        <p>&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/blob/main/m1/task1.1/task1.1_GIT.txt">task1.1_GIT.txt</a></p>
+        <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/blob/main/m1/task1.1/task1.1_GIT.txt">task1.1_GIT.txt</a></p>
 <p> &nbsp&nbsp/m2</p>
   <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/tree/main/m2/task2.1">/task2.1</a></p>
   <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/tree/main/m2/task2.1/Part1">/Part1</a></p>
@@ -19,9 +19,9 @@
   <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/task2.2</p>
    ...
   
-  '''
+  ```
   <My text about DevOps>
 DevOps - it is not like special job or something that you can learn anywhere. DevOps should install needed OS to needed environment with needed apps.
 He needs to have good troubleshooting experiance, communication skills and be a progmatic persone. Monitoring skills, and desire to automate everything also needed in this vacancy.
-  '''
+  ```
 
