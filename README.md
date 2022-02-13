@@ -21,8 +21,8 @@
   
   ```
   <My text about DevOps>
-DevOps - it is not like special job or something that you can learn anywhere. DevOps should install needed OS to needed environment with 
-needed apps. He needs to have good troubleshooting experiance, communication skills and be a progmatic persone. Monitoring skills, and 
-desire to automate everything also needed in this vacancy.
+DevOps - it is not like special job or something that you can learn anywhere. DevOps should install needed OS to needed 
+environment with needed apps. He needs to have good troubleshooting experiance, communication skills and be a progmatic 
+persone. Monitoring skills, and desire to automate everything also needed in this vacancy.
   ```
 
