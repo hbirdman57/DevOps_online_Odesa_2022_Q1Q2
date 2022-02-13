@@ -13,7 +13,7 @@
         <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspindex.html</p>
         <p>&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/blob/main/m1/task1.1/task1.1_GIT.txt">task1.1_GIT.txt</a></p>
 <p> &nbsp&nbsp/m2</p>
-  <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/tree/main/m2/task2.1">task2.1</a></p>
+  <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/tree/main/m2/task2.1">/task2.1</a></p>
   <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/tree/main/m2/task2.1/Part1">/Part1</a></p>
   <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/tree/main/m2/task2.1/Part2%2BVagrant">/Part2+Vagrant</a></p>
   <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbs/ptask2.2</p>
