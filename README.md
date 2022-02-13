@@ -1,4 +1,4 @@
-### Hi! My name is Vadim ###
+### Hi! My name is Vadim Korennoy###
 ![This is an image](https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/old_images/MOVIE/7845/1000157845/1000157845-h)
 <p>My repo consists of:</p>
 
