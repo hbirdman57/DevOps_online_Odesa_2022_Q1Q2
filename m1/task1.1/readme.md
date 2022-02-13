@@ -6,9 +6,3 @@
 <p>20 step - merge executed by command git merge(branch), but when you inside branch you need to be main. Merge conflict solved by manual change some html code.</p>
 <p>22 step - all merged into master</p>
 <p>25 step - all logs added to the task1.1_GIT.txt file</p>
-
-
-
-<p>My text about DevOps</p>
-<p>DevOps - it is not like special job or something that you can learn anywhere. DevOps should install needed OS to needed environment with needed apps.
-He need to have good troubleshooting experiance, communication skills and be a progmatic persone. Monitoring skills, and desire to automate everything also needed in this vacancy.</p>
