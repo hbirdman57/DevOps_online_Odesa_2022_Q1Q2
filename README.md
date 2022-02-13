@@ -1,19 +1,21 @@
-### Hi! My name is Vadim 
+### Hi! My name is Vadim ###
 ![This is an image](https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/old_images/MOVIE/7845/1000157845/1000157845-h)
-My repo consists of:
+<p>My repo consists of:</p>
 
 /
 <p>&nbsp/m1</p>
   <p>&nbsp&nbsp&nbsp/task1.1</p>
-       <p>&nbsp&nbsp&nbsp&nbsp&nbsp<a hrefa="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/blob/main/m1/task1.1/styles">styles</a>/styles</p>
+       <p>&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/blob/main/m1/task1.1/styles">styles</a>/styles</p>
             <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspstyles.css</p>
-        <p>&nbsp&nbsp&nbsp&nbsp/images</p>
+        <p>&nbsp&nbsp&nbsp&nbsp/<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/tree/main/m1/task1.1/images">images</p>
               <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspindex.png</p>
               <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspmodel-2.png</p>
         <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbspindex.html</p>
-        <p>&nbsp&nbsp&nbsp&nbsp&nbsptask1.1_GIT.txt</p>
+        <p>&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/blob/main/m1/task1.1/task1.1_GIT.txt">task1.1_GIT.txt</p>
 <p> &nbsp&nbsp/m2</p>
   <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/tree/main/m2/task2.1">task2.1</a></p>
+  <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/tree/main/m2/task2.1/Part1">/Part1</a></p>
+  <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/tree/main/m2/task2.1/Part2%2BVagrant">/Part2+Vagrant</a></p>
   <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbs/ptask2.2</p>
    ...
   
