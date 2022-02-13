@@ -1,4 +1,4 @@
-### Hi! My name is Vadim Korennoy###
+### Hi! My name is Vadim Korennoy ###
 ![This is an image](https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/old_images/MOVIE/7845/1000157845/1000157845-h)
 <p>My repo consists of:</p>
 
@@ -19,5 +19,9 @@
   <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp/task2.2</p>
    ...
   
-
+  '''
+  <My text about DevOps>
+DevOps - it is not like special job or something that you can learn anywhere. DevOps should install needed OS to needed environment with needed apps.
+He needs to have good troubleshooting experiance, communication skills and be a progmatic persone. Monitoring skills, and desire to automate everything also needed in this vacancy.
+  '''
 
