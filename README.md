@@ -23,11 +23,7 @@
   <p>&nbsp&nbsp<a href="https://github.com/hbirdman57/DevOps_online_Odesa_2022_Q1Q2/tree/main/m4">/m4</a></p>
 
    ...
-  
-  ```
-  <My text about DevOps>
-DevOps - it is not like special job or something that you can learn anywhere. DevOps should install needed OS to needed 
-environment with specific apps. He needs to have good troubleshooting experiance, communication skills and be a progmatic 
-persone. Monitoring skills, and desire to automate everything also needed in this vacancy.
-  ```
 
+  ```
+  The text was deleted due to the outdated info
+  ```
